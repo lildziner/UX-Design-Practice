@@ -32,7 +32,7 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 
 1. Master Sketch File - Currently shared internally with team through GetAbstract. Sign up at [GetAbstract](https://www.goabstract.com/)
 
-2. Master Graphic Asset Folder (icons, colors, fonts, oh my.)
+2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
 ## Contacts
 Shelton Davis
