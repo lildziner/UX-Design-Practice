@@ -15,8 +15,9 @@ The vision of the Terminus UX Design Practice is new, yet mature in directional 
 An upcoming 2017-2018 UX Strategy will be produced soon.
 
 ## UX Workflow
-"The state of our economy calls for action, bold and swift."
-[President Barack Obama's Inaugural Address](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address)
+> "The state of our economy calls for action, bold and swift."
+
+> [President Barack Obama: Inaugural Address](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address)
 
 As a UX Practice, we must be swift and bold with our actions. This means lean research, lean UX assets, lean documentation, and lean pushes to production.
 
@@ -28,13 +29,53 @@ As a UX Practice, we must be swift and bold with our actions. This means lean re
 
 Refine and move to high fidelity wireframes ONLY if needed for marketing purposes. Engineering team does not need high fidelity wireframes in order to
 
-## UX Practice Master Assets
+### UX Kanban Defined
+| Phase      | Lead    | Advisors + Followers |
+|------------|---------|----------------------|
+| **Definition** | Product | UX, Engineering, CSM |
+| **Design** | UX | Product, Engineering, CSM |
+| **User Validation / User Testing** | UX | Product, CSM, Engineering |
+| Ready for Engineering | Engineering | Product, UX |
+| Implementation | Engineering | Product |
+| QA / Unit Testing | QA | Engineering, Product |
+| Ready to Ship | Product | Engineering, QA |
+| Shipped | Engineering | Product |
+| **Validation** | UX | Product, Engineering, CSM |
+
+## Teams
+| Engineering  | Product  | UX | 2018 Q3 | 2018 Q4 |
+|----------|--------|--------|--------|--------|
+| Project - Team  | Project - Team  | Project - Team | Project - Team | Project - Team |
+
+## Teams and Projects in Flight
+| 2017 Q4  | 2018 Q1  | 2018 Q2 | 2018 Q3 | 2018 Q4 |
+|----------|--------|--------|--------|--------|
+| Project - Team  | Project - Team  | Project - Team | Project - Team | Project - Team |
+
+[Product Development Team Overview](https://docs.google.com/a/terminus.com/spreadsheets/d/1oPGXr9Hkb7ymLnOe0F6EqnpVJ9iCuvTBdneKeDqpT0Y/edit?usp=sharing)
+
+[Engineering + Product --- People, Projects & Roadmap](https://docs.google.com/a/terminus.com/spreadsheets/d/1mSaMLXyjzyxb1BpAAjda_bNfNCZhTjoZp-5h-AnHZCA/edit?usp=sharing)
+
+## UX Practice Assets
 Before we utilize any graphic assets, we must listen, draw, share, and repeat. Low fidelity iteration is where we start! When it comes time to make a visual composition of a thought out concept, all of our digital
 
 1. Master Sketch File - Currently shared internally with team through GetAbstract. Sign up at [GetAbstract](https://www.goabstract.com/)
 
 2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
-## Contacts
+## UX Tools in Use
+| Tool | Used For | Location |
+|------|-----|-------|
+| Sketch | Creating wireframes | Local app |
+| InVision | Sharing and commenting on wireframes | URL |
+| GitHub | UX Guide + jump off point of UX team needs | URL |
+| Google Drive | Storage of all-the-things | URL |
+| Abstract | Version control for Sketch files | URL/Invite |
+| Omnigraffle | For IA / User flow work | Local app |
+
+
+
+
+## Team
 Shelton Davis
 shelton.davis@terminus.com
