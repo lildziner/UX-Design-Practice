@@ -73,9 +73,8 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 | Abstract | Version control for Sketch files | URL/Invite |
 | Omnigraffle | For IA / User flow work | Local app |
 
-
-
-
 ## Team
-Shelton Davis
+As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible. Read about our current [our recruiting process](UX-recruiting.md).
+
+Shelton Davis Senior UX Designer
 shelton.davis@terminus.com
