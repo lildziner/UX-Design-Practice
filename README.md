@@ -1,20 +1,25 @@
-# UX Design Practice
+# UX Design Practice Guide
 Design goodies.
 
-## About
+## About this Guide
 This is where all the Terminus UX Design Practice assets, processes, and goodies will live. More awesome things to come!
 
-### UX Guide Goals
+As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible. Read about our current [our recruiting process](UX-recruiting.md).
+
+Shelton Davis Senior UX Designer
+shelton.davis@terminus.com
+
+### Guide Goals
 1. A central repository for living design related stuffs.
 2. A collaborative environment that allows for open contribution, fast changes, discussions, and efficiency through consistency.
 3. A place where both sandbox (iterative) and product level artifacts can live.
 
-## Strategy
+## UX Strategy
 The vision of the Terminus UX Design Practice is new, yet mature in directional drive. We believe in listening carefully, iterating quickly, and value constructive critique at all points of our process. As a work in progress, we will learn from our mistakes and strive to bring positive user/business findings into the product. As practitioners of UX Design in the B2B marketing space there will be many user + data driven experiments, plenty of exciting user + Terminus team collaboration, and the results will always bring about better relationships and a more refined product.
 
 An upcoming 2017-2018 UX Strategy will be produced soon.
 
-## UX Workflow
+## Workflow
 > "The state of our economy calls for action, bold and swift."
 
 > [President Barack Obama: Inaugural Address](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address)
@@ -42,28 +47,14 @@ Refine and move to high fidelity wireframes ONLY if needed for marketing purpose
 | Shipped | Engineering | Product |
 | **Validation** | UX | Product, Engineering, CSM |
 
-## Teams
-| Engineering  | Product  | UX | 2018 Q3 | 2018 Q4 |
-|----------|--------|--------|--------|--------|
-| Project - Team  | Project - Team  | Project - Team | Project - Team | Project - Team |
-
-## Teams and Projects in Flight
-| 2017 Q4  | 2018 Q1  | 2018 Q2 | 2018 Q3 | 2018 Q4 |
-|----------|--------|--------|--------|--------|
-| Project - Team  | Project - Team  | Project - Team | Project - Team | Project - Team |
-
-[Product Development Team Overview](https://docs.google.com/a/terminus.com/spreadsheets/d/1oPGXr9Hkb7ymLnOe0F6EqnpVJ9iCuvTBdneKeDqpT0Y/edit?usp=sharing)
-
-[Engineering + Product --- People, Projects & Roadmap](https://docs.google.com/a/terminus.com/spreadsheets/d/1mSaMLXyjzyxb1BpAAjda_bNfNCZhTjoZp-5h-AnHZCA/edit?usp=sharing)
-
-## UX Practice Assets
+### UX Practice Assets
 Before we utilize any graphic assets, we must listen, draw, share, and repeat. Low fidelity iteration is where we start! When it comes time to make a visual composition of a thought out concept, all of our digital
 
 1. Master Sketch File - Currently shared internally with team through GetAbstract. Sign up at [GetAbstract](https://www.goabstract.com/)
 
 2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
-## UX Tools in Use
+### UX Tools in Use
 | Tool | Used For | Location |
 |------|-----|-------|
 | Sketch | Creating wireframes | Local app |
@@ -73,8 +64,38 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 | Abstract | Version control for Sketch files | URL/Invite |
 | Omnigraffle | For IA / User flow work | Local app |
 
-## Team
-As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible. Read about our current [our recruiting process](UX-recruiting.md).
 
-Shelton Davis Senior UX Designer
-shelton.davis@terminus.com
+## Teams: Product & Engineering
+
+### Engineering
+Team Leadership:
+- Eric Vass (CTO)
+- Edwin Marty (VP Engineering)
+
+| Wolfpack  | Planeteers  | Thundercats |  Masterblaster | Autobots | CoreApps |
+|----------|--------|--------|--------|--------|-------|
+| Lead Name  | Lead Name  | Lead Name | Lead Name | Lead Name | Lead Name |
+| Name  | Name  | Name | Name | Name | Name |
+
+
+### Product
+Team Leadership:
+- Bryan Brown
+
+| Name  | Teams  |
+|----------|--------|
+| Niraj Rana  | TBD  |
+| Sunny Bradshaw  | TBD  |
+
+### User Experience
+| Name  | Teams  |
+|----------|--------|
+| Shelton Davis  | TBD  |
+| L.V.H.  | TBD  |
+
+
+## Points of Reference
+
+[Product Development Team Overview](https://docs.google.com/a/terminus.com/spreadsheets/d/1oPGXr9Hkb7ymLnOe0F6EqnpVJ9iCuvTBdneKeDqpT0Y/edit?usp=sharing)
+
+[Engineering + Product --- People, Projects & Roadmap](https://docs.google.com/a/terminus.com/spreadsheets/d/1mSaMLXyjzyxb1BpAAjda_bNfNCZhTjoZp-5h-AnHZCA/edit?usp=sharing)
