@@ -1,7 +1,5 @@
 # UX Onboarding: Mentoring Program
 
-Team building
-
 Mentoring at Terminus helps new UX zebras get to know individuals from other teams and better understand how Terminus works.
 
 ## Ultimate Goals:

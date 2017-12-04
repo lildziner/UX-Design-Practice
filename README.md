@@ -4,9 +4,14 @@ Design goodies.
 ## About this Guide
 This is where all the Terminus UX Design Practice assets, processes, and goodies will live. More awesome things to come!
 
-As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible. Read about our current [our recruiting process](UX-recruiting.md).
+As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible.
 
-Shelton Davis Senior UX Designer
+Read about our current [our recruiting process](docs/UX-recruiting.md) and what how we [onboard and mentor new UX zebras](docs/UX-Onboarding-Mentoring.md). 
+
+Shelton Davis
+
+Senior UX Designer
+
 shelton.davis@terminus.com
 
 ### Guide Goals
@@ -21,8 +26,7 @@ An upcoming 2017-2018 UX Strategy will be produced soon.
 
 ## Workflow
 > "The state of our economy calls for action, bold and swift."
-
-> [President Barack Obama: Inaugural Address](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address)
+[President Barack Obama: Inaugural Address](https://obamawhitehouse.archives.gov/blog/2009/01/21/president-barack-obamas-inaugural-address)
 
 As a UX Practice, we must be swift and bold with our actions. This means lean research, lean UX assets, lean documentation, and lean pushes to production.
 
@@ -66,6 +70,7 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 
 
 ## Teams: Product & Engineering
+TBD
 
 ### Engineering
 Team Leadership:
@@ -80,7 +85,7 @@ Team Leadership:
 
 ### Product
 Team Leadership:
-- Bryan Brown
+- Bryan Brown (CPO)
 
 | Name  | Teams  |
 |----------|--------|
