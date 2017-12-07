@@ -6,7 +6,7 @@ This is where all the Terminus UX Design Practice assets, processes, and goodies
 
 As a growing UX Team, we are doing our best to document the process so that those interested in working with Terminus have an enjoyable recruiting / prospecting experience. Since this is a work in progress, please understand that steps might be added, changed, removed from our process at any time. We will keep this as updated as possible.
 
-Read about our current [our recruiting process](docs/UX-recruiting.md) and what how we [onboard and mentor new UX zebras](docs/UX-Onboarding-Mentoring.md). 
+Read about our current [our recruiting process](docs/UX-Recruiting.md) and what how we [onboard and mentor new UX zebras](docs/UX-Onboarding-Mentoring.md).
 
 Shelton Davis
 
