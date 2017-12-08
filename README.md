@@ -59,44 +59,53 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
 ### UX Tools in Use
-| Tool | Used For | Location |
-|------|-----|-------|
-| Sketch | Creating wireframes | Local app |
-| InVision | Sharing and commenting on wireframes | URL |
-| GitHub | UX Guide + jump off point of UX team needs | URL |
-| Google Drive | Storage of all-the-things | URL |
-| Abstract | Version control for Sketch files | URL/Invite |
-| Omnigraffle | For IA / User flow work | Local app |
+| Tool | Used For |
+|------|-----|
+| Wireframes | SketchApp (hi res), Balsamiq (mid res) |
+| IA | For IA / User flow work |
+| Design Sharing | InVision, whiteboards |
+| UX Documentation | GitHub (new UX Guide), Google Drive |
+| Email | Gmail |
+| Docs/Spreadsheets | Google Tools |
 
 
 ## Teams: Product & Engineering
-TBD
+**Leads:**
+- Bryan Brown (CPO)
+- Eric Vass (CTO)
 
 ### Engineering
-Team Leadership:
+**Team Leadership:**
 - Eric Vass (CTO)
 - Edwin Marty (VP Engineering)
 
-| Wolfpack  | Planeteers  | Thundercats |  Masterblaster | Autobots | CoreApps |
+| Wolfpack  | Planeteers  | Thundercats |  Autobots | Master Blaster | CoreApps |
 |----------|--------|--------|--------|--------|-------|
-| Lead Name  | Lead Name  | Lead Name | Lead Name | Lead Name | Lead Name |
-| Name  | Name  | Name | Name | Name | Name |
-
+| Brian Malinconico (lead)  | Brian Malinconico (lead)  | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
+| Stephen Reid  | David Harkness  | Jonathan Cantrell | Tyler Hastings | Stevie Vines | Seth Floyd |
+| Brandon Cummings  | Nathaniel Rowe   | Brandon Cummings |  |  |  |
+| Chris Kittredge  | Wendy Yang  |  |  |  |  |
+| Ben Charity  | Corey Martin  |  |  |  |  |
+| Jamaal Hutchinson (SDET)  | Jamaal Hutchinson  |  |  |  |  |
+| Chue Her (Sr SDET)  | Chue Her  | Chue Her | Chue Her |  |  |  |
 
 ### Product
-Team Leadership:
+**Team Leadership:**
 - Bryan Brown (CPO)
 
-| Name  | Teams  |
+| Name  | Initiatives  |
 |----------|--------|
-| Niraj Rana  | TBD  |
-| Sunny Bradshaw  | TBD  |
+| Niraj Rana  | LinkedIn, oAuth, etc  |
+| Sunny Bradshaw  | Engagement Metrics, Targeting, New Reporting, etc.  |
 
 ### User Experience
-| Name  | Teams  |
+**Team Leadership:**
+- Shelton Davis ([insert_title_here])
+
+| Name  | Initiatives  |
 |----------|--------|
-| Shelton Davis  | TBD  |
-| L.V.H.  | TBD  |
+| Shelton Davis  | All the things  |
+| Leyda Vega Hughes  | All the things too.  |
 
 
 ## Points of Reference
