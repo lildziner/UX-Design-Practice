@@ -59,14 +59,14 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 2. Master Graphic Asset Folder (icons, colors, fonts, oh my!)
 
 ### UX Tools in Use
-| Tool | Used For |
+| Tool | Use |
 |------|-----|
-| Wireframes | SketchApp (hi res), Balsamiq (mid res) |
-| IA | For IA / User flow work |
-| Design Sharing | InVision, whiteboards |
-| UX Documentation | GitHub (new UX Guide), Google Drive |
-| Email | Gmail |
-| Docs/Spreadsheets | Google Tools |
+| [SketchApp](https://www.sketchapp.com/) | Main high fidelity wireframing tool |
+| [InVision](https://www.invisionapp.com/) | Wireframe sharing and click throughs |
+| [Balsamiq](https://balsamiq.com/) | Secondary, mid fidelity wireframing tool |
+| [Omnigraffle](https://www.omnigroup.com/omnigraffle/) | Diagramming and information architecture |
+| [Google Drawings](https://docs.google.com/drawings/d/1J5XHDQDRXzpvyyy8P4-CLquVWA7aCEiiAIcjd6e1XbM/edit) | Diagramming and information architecture |
+| Google Tools | Docs, spreadsheets, and slides, oh my |
 
 
 ## Teams: Product & Engineering
