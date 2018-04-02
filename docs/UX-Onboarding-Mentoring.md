@@ -12,7 +12,7 @@ Give all new UX team member&#39;s a go-to person on other teams to wave at in th
 
 With a baseline understanding of how each job contributes to a greater goal, our goal is to help all team members be more informed of how the Terminus engine works.
 
-### Internal Team Points of Contact (mentoring):
+## Team member informational interviews
 
 | **Name** | **Position** | **Team** |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ With a baseline understanding of how each job contributes to a greater goal, our
 | Ben W. | Director of Finance | Finance |
 
 
-### First Meeting General Question:
+### First Meeting General Question
 
 1. What are your roles and responsibilities?
 2. What brought you to Terminus?
@@ -53,7 +53,15 @@ With a baseline understanding of how each job contributes to a greater goal, our
 
 \* Plan a follow up meeting between all members or some members of the team.
 
-### Follow Up Meeting:
+## Recurring Terminus team meetings
 
-1. Review how things are going!
-2. High five and grab a snack.
+1. Sales Team
+2. Customer Success
+3. Engineering  
+4. Product
+6. Finance
+7. Special Ops
+8. AdOps
+9. Marketing  
+10. User Experience
+11. ???
