@@ -52,7 +52,7 @@ Refine and move to high fidelity wireframes ONLY if needed for marketing purpose
 | **Validation** | UX | Product, Engineering, CSM |
 
 ### UX Practice Assets
-Before we utilize any graphic assets, we must listen, draw, share, and repeat. Low fidelity iteration is where we start! When it comes time to make a visual composition of a thought out concept, all of our digital
+Before we utilize any graphic assets, we must listen, draw, share, and repeat. Low fidelity iteration is where we start!
 
 1. Master Sketch File - Currently shared internally with team through GetAbstract. Sign up at [GetAbstract](https://www.goabstract.com/)
 
@@ -79,14 +79,15 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 - Eric Vass (CTO)
 - Edwin Marty (VP Engineering)
 
+_Team membership need updating_
 | Wolfpack  | Planeteers  | Thundercats |  Autobots | Master Blaster | CoreApps |
 |----------|--------|--------|--------|--------|-------|
 | Brian Malinconico (lead)  | Brian Malinconico (lead)  | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
-| Stephen Reid  | David Harkness  | Jonathan Cantrell | Tyler Hastings | Stevie Vines | Seth Floyd |
+| Stephen Reid  | David Harkness  | Jonathan Cantrell | Tyler Hastings | Stevie Vines |  |
 | Brandon Cummings  | Nathaniel Rowe   | Brandon Cummings |  |  |  |
 | Chris Kittredge  | Wendy Yang  |  |  |  |  |
 | Ben Charity  | Corey Martin  |  |  |  |  |
-| Jamaal Hutchinson (SDET)  | Jamaal Hutchinson  |  |  |  |  |
+|  |  |  |  |  |  |
 | Chue Her (Sr SDET)  | Chue Her  | Chue Her | Chue Her |  |  |  |
 
 ### Product
@@ -100,12 +101,14 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 
 ### User Experience
 **Team Leadership:**
-- Shelton Davis ([insert_title_here])
+- Shelton Davis ()
 
 | Name  | Initiatives  |
 |----------|--------|
-| Shelton Davis  | All the things  |
-| Leyda Vega Hughes  | All the things too.  |
+| Shelton Davis  | Surge, UX Roadmap  |
+| Leyda Vega Hughes  | Marketer Research and Processes  |
+| Devon Peet  | Learn all the things |
+
 
 
 ## Points of Reference
