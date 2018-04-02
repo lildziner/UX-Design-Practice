@@ -10,40 +10,58 @@ Give all new UX team member&#39;s a go-to person on other teams to wave at in th
 
 **Build Understanding**
 
-With a baseline understanding of how each job contributes to a greater goal, a UX team member will be better equipped to be successful
+With a baseline understanding of how each job contributes to a greater goal, our goal is to help all team members be more informed of how the Terminus engine works.
 
-### Internal Team Points of Contact (mentoring):
+## Team member informational interviews
 
-| **Name** | **Position** | **Team** | **Meeting date** |
-| --- | --- | --- | --- |
-| Lucas U. | Director of Sales Development | Sales | TBD 12/12/2017 |
-| Tonni B. | VP of Sales | Sales | TBD 12/18/2017 |
-| Sydney S. | Director of Customer Success | CSM | TBD12/15/2017 |
-| Andrew P. | Support Manager | Support | TBD 12/14/2017 |
-| Dan H.Connor B. | Vice President of AdOps | AdOps | TBD 12/13/2017 |
-| Thomas S. | Director of Product Marketing | Marketing | TBD 12/19/2017 |
-| Kipp R. | Employee Success Manager | HR/Accounting | TBD 12/20/2017 |
-| Edwin M. | VP Engineering | Engineering | TBD 12/21/2017 |
-| Eric S. | CEO | Executive Team | TBD 12/22/2017 |
-| Nikki N. | Director of FlipMyFunnel | FlipMyFunnel | TBD 12/18/2017 |
-| Ben W. | Director of Finance | Finance | TBD 12/21/2017 |
+| **Name** | **Position** | **Team** |
+| --- | --- | --- |
+| Lucas U. | VP of Sales Development | Sales |
+| Tonni B. | VP of Sales | Sales |
+| Mike V. | Sales Manager | Sales |
+| Karen T. | Senior On-boading Specialist | Professional Services |
+| Sydney S. | Director of Customer Success | Customer Success |
+| JJ A. | Customer Success Manager | Customer Success |
+| Andrew P. | Support Manager | Customer Support |
+| Tenisha G. | Sr. Manager of Digital Strategy | AdOps |
+| Connor B. | Sr. Digital Strategist | AdOps |
+| Gabby O. | Sr. Digital Strategist | AdOps |
+| Thomas S. | Director of Product Marketing | Marketing |
+| Madison B. | Marketing Operations Coordinator | Marketing |
+| Shannel W. | Senior Manager Creative | Marketing |
+| Edwin M. | VP Engineering | Engineering |
+| Abram S. | Lead Senior Software Engineer | Engineering |
+| Wendy Y. | Senior Software Engineer | Engineering |
+| Kipp R. | Employee Success Manager | Employee Success |
+| Sangram V. | Chief Evangelist | Executive Team Leadership |
+| Nikki N. | Director of FlipMyFunnel | FlipMyFunnel |
+| Ben W. | Director of Finance | Finance |
 
-### First Meeting General Question:
 
-1. What do you do for Terminus?
+### First Meeting General Question
+
+1. What are your roles and responsibilities?
 2. What brought you to Terminus?
 3. How long have you been at Terminus?
 4. What is your favorite thing about Terminus?
 5. How do you know when you are successful at your job?
-6. What does a tough day look like for you?
+6. What is tough about your job?
 7. Where are you from?
 8. What are your hobbies outside of work?
-9. How can we help each other now? (team to team)
-10. How can we help each other in the future? (team to team)
+9. How can the Product team help you and your team? (team to team)
+10. What tools do you currently use to get your job done?
 
 \* Plan a follow up meeting between all members or some members of the team.
 
-### Follow Up Meeting:
+## Recurring Terminus team meetings
 
-1. Review how things are going!
-2. High five and grab a snack.
+1. Sales Team
+2. Customer Success
+3. Engineering  
+4. Product
+6. Finance
+7. Special Ops
+8. AdOps
+9. Marketing  
+10. User Experience
+11. ???
