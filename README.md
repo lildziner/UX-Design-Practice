@@ -80,6 +80,7 @@ Before we utilize any graphic assets, we must listen, draw, share, and repeat. L
 - Edwin Marty (VP Engineering)
 
 _Team membership need updating_
+
 | Wolfpack  | Planeteers  | Thundercats |  Autobots | Master Blaster | CoreApps |
 |----------|--------|--------|--------|--------|-------|
 | Brian Malinconico (lead)  | Brian Malinconico (lead)  | Abram Simon (lead) | Matt Abbott (lead) | Rob Johnson (lead) | Brendan Erwin (lead) |
@@ -87,7 +88,6 @@ _Team membership need updating_
 | Brandon Cummings  | Nathaniel Rowe   | Brandon Cummings |  |  |  |
 | Chris Kittredge  | Wendy Yang  |  |  |  |  |
 | Ben Charity  | Corey Martin  |  |  |  |  |
-|  |  |  |  |  |  |
 | Chue Her (Sr SDET)  | Chue Her  | Chue Her | Chue Her |  |  |  |
 
 ### Product
